@@ -35,7 +35,7 @@ noBtn.addEventListener("mouseover", () => {
 yesBtn.addEventListener("click", () => {
   title.textContent = "WOOF WOOF! It's Us!🐶💖";
 
-  petImg.src = "Holding-puppy.png";
+  petImg.src = "holding-puppy.png";
 
   document.querySelector(".letter-window").classList.add("final");
 
